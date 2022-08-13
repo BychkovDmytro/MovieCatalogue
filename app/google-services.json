@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035510632135",
+    "project_id": "moviecatalogue-49ad9",
+    "storage_bucket": "moviecatalogue-49ad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035510632135:android:adf0a88d8d407e861d78e2",
+        "android_client_info": {
+          "package_name": "com.lokilinks.moviecatalogue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035510632135-hgr5ps1f0kh2f8u3t5t290eqr881usm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp4FlWAoJJoKzLiAXYCPf8ZgE-NCXf6fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035510632135-hgr5ps1f0kh2f8u3t5t290eqr881usm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
